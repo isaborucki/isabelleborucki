@@ -1,0 +1,352 @@
+{
+  "name": "Prof. Dr. Isabelle Borucki",
+  "role": "Political science · Philipps-University Marburg",
+  "intro": "I study how digital transformation reshapes democracy, political parties, and the ways we participate.",
+  "about": "I am Professor for Methodology and Democracy in Digital Transformation at Philipps-University Marburg. My research connects political organizations and comparative politics with digitalization, political communication, and methodological integration.",
+  "methods": [
+    "Text & content analysis",
+    "Social network analysis",
+    "Quantitative methods",
+    "Interviews & focus groups",
+    "Natural language processing"
+  ],
+  "projects": [
+    {
+      "title": "DIPART",
+      "type": "Research",
+      "description": "Digital Party Research: a former junior research group at the NRW School of Governance, University of Duisburg-Essen.",
+      "url": "https://web.archive.org/web/20250315032643/https://isabelleborucki.de/",
+      "label": "Background in the archive ↗",
+      "status": "Previous research group"
+    },
+    {
+      "title": "Peer review in social sciences",
+      "type": "Research",
+      "description": "An international collaborative study of the status quo and prospects of peer review. Explore the project record on OSF.",
+      "url": "https://doi.org/10.17605/osf.io/hqvar",
+      "label": "Explore the OSF record ↗",
+      "status": "Collaboration"
+    },
+    {
+      "title": "Code & research resources",
+      "type": "Resources",
+      "description": "A starting point for repositories, research code, and digital tools on GitHub.",
+      "url": "https://github.com/isaborucki",
+      "label": "Browse GitHub ↗",
+      "status": "Repository hub"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Was ist Datenpolitik? Eine systematische Literaturrecherche",
+      "year": "2026",
+      "url": "https://doi.org/10.1007/s41358-026-00453-0",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Digital election campaigns and the AI revolution",
+      "year": "2026",
+      "url": "https://doi.org/10.4337/9781035326303.00011",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "The digital transformation of party membership: How party members perceive online participation and adapt to it under pandemic circumstances",
+      "year": "2025",
+      "url": "https://doi.org/10.1177/13540688241306726",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Better safe than sorry? Digital campaigning governance in Germany",
+      "year": "2024",
+      "url": "https://doi.org/10.1080/01442872.2024.2311167",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Peer review in social sciences - an international study of the status quo and prospects",
+      "year": "2023",
+      "url": "https://doi.org/10.17605/osf.io/hqvar",
+      "type": "Other"
+    },
+    {
+      "title": "Digitale Methoden in der Politikwissenschaft. Auf dem Weg in virtuelle Welten?",
+      "year": "2023",
+      "url": "https://doi.org/10.15464/easy.2023.08",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Debating E-voting throughout Europe: constitutional structures, parties' concepts and Europeans' perceptions (vol 5, 982558, 2023)",
+      "year": "2023",
+      "url": "https://doi.org/10.3389/FPOS.2023.1230397",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Debating E-voting throughout Europe: constitutional structures, parties' concepts and Europeans' perceptions",
+      "year": "2023",
+      "url": "https://doi.org/10.3389/FPOS.2023.982558",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Methoden in der Regierungsforschung",
+      "year": "2022",
+      "url": "https://doi.org/10.1007/978-3-658-30074-6_3-1",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Digitalization in Candidate Selection. Support and Resistance Within Established Political Parties in Germany",
+      "year": "2022",
+      "url": "https://doi.org/10.3389/fpos.2022.815513",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Digital wie nie zuvor?",
+      "year": "2022",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book"
+    },
+    {
+      "title": "Tactical Web Use in Bumpy Times—A Comparison of Conservative Parties’ Digital Presence",
+      "year": "2021",
+      "url": "https://doi.org/10.1007/978-3-030-78668-7_13",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Politische Kommunikationsforschung im Wandel",
+      "year": "2021",
+      "url": "https://doi.org/10.1007/978-3-658-26242-6_56-1",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Grundsätzlich bereit, aber doch nicht dabei – Eine Analyse der Mitarbeitsbereitschaft in Parteien anhand des Civic Voluntarism Models",
+      "year": "2021",
+      "url": "https://doi.org/10.1007/s41358-021-00251-w",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Germany: Between a patchwork and best-practice",
+      "year": "2021",
+      "url": "https://doi.org/10.4324/9781003120254-11/",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Coronakratie",
+      "year": "2021",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book"
+    },
+    {
+      "title": "Social Media Monitoring",
+      "year": "2020",
+      "url": "https://doi.org/10.4135/9781483375519.n621",
+      "type": "Encyclopedia Entry"
+    },
+    {
+      "title": "Objectivity",
+      "year": "2020",
+      "url": "https://doi.org/10.4135/9781483375519.n488",
+      "type": "Encyclopedia Entry"
+    },
+    {
+      "title": "Magazine Websites",
+      "year": "2020",
+      "url": "https://doi.org/10.4135/9781483375519.n381",
+      "type": "Encyclopedia Entry"
+    },
+    {
+      "title": "Handbuch Politische Kommunikation",
+      "year": "2020",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book"
+    },
+    {
+      "title": "Editorial",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/s41358-020-00237-0",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Die digitalisierte Demokratie. Ein Überblick",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/s41358-020-00224-5",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Die Zukunft digitalisierter Demokratie – Perspektiven für die Forschung",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/s41358-020-00234-3",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Die Regierung Beck",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/978-3-658-28900-3_12",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Die Organisationsreform der SPD 2017–2019: Jung, weiblich und digital?",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/s11615-020-00271-1",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Demokratietheorie im Zeitalter der Frühdigitalisierung",
+      "year": "2020",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book"
+    },
+    {
+      "title": "Demokratietheorie im Zeitalter der Frühdigitalisierung",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/978-3-658-30997-8",
+      "type": "Book"
+    },
+    {
+      "title": "Tactical Web Use in Bumpy Times – a Comparison of Conservative Parties’ Digital Presence",
+      "year": "2019",
+      "url": "https://doi.org/10.31235/osf.io/sh9ej",
+      "type": "Preprint"
+    },
+    {
+      "title": "Staatliche Öffentlichkeitsarbeit/Presse- und Informationsamt der Bundesregierung",
+      "year": "2019",
+      "url": "https://doi.org/10.1007/978-3-658-23670-0_183-1",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Internet und Staat--zur Komplexität eines Beziehungsgeflechts",
+      "year": "2019",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Internet und Staat",
+      "year": "2019",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book"
+    },
+    {
+      "title": "Dealing and dancing with Bots: Der Umgang der Parteien mit disruptiven Phänomenen im Bundestagswahlkampf",
+      "year": "2019",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Between cumulative thesis and curriculum A study of regulatory frameworks for doctorates in communication studies at German-speaking universities and colleges",
+      "year": "2019",
+      "url": "https://doi.org/10.5771/2192-4007-2019-2-171",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Regieren",
+      "year": "2018",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Medien",
+      "year": "2018",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Europäische Regierungschefs auf Facebook: Dialogische Offerten und Interaktion in Netzwerken rund um Fanpages",
+      "year": "2018",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Bestandsaufnahme kommunikationswissenschaftlicher Promotionsverfahren im deutschsprachigen Raum 2015",
+      "year": "2018",
+      "url": "https://doi.org/10.7802/1613",
+      "type": "Data Set"
+    },
+    {
+      "title": "Regierungskommunikation im Wandel – Politikwissenschaftliche Perspektiven",
+      "year": "2017",
+      "url": "https://doi.org/10.1007/978-3-658-20589-8_3",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Parteiorganisation und Parteiwandel: theoretisch und methodisch alternativ erklärt, Rezension zu: Gauja, Anika, Party Reform. The Causes, Challenges and Consequences of Party Reform.",
+      "year": "2017",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "A Visual Data Collection Method: German Local Parties and Associations",
+      "year": "2017",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Wie viel Partei steckt in Regierungskommunikation? Zur Ausgestaltung des Kommunikationsmanagements der Bundesregierung",
+      "year": "2016",
+      "url": "https://doi.org/10.1007/978-3-658-05309-3_9",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Regierungen auf Facebook - distributiv, dialogisch oder reaktiv? Eine Bestandsaufnahme Governments on Facebook - Distributive, Dialogical or Reactive? An Inventory",
+      "year": "2016",
+      "url": "https://doi.org/10.17174/DCR.V3.3",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Politische und mediale Logiken. Ein Vorschlag zur Differenzierung politischer Medialisierung",
+      "year": "2015",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Mehr als die Replikation organisationaler Offline-Strukturen? Zur internen Vernetzung von Parteien auf Twitter--das Beispiel SPD",
+      "year": "2015",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Regieren mit Medien: Auswirkungen der Medialisierung auf die Regierungskommunikation der Bundesregierung von 1982-2010",
+      "year": "2014",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Book"
+    },
+    {
+      "title": "Regieren mit Medien",
+      "year": "2014",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Dissertation Thesis"
+    },
+    {
+      "title": "Online-Regieren angesichts medialer Allgegenwart--Die Kanzlerin auf Youtube und ihr twitternder Regierungssprecher",
+      "year": "2014",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Ethische Entscheidungen in der Politik",
+      "year": "2014",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Parteien und Medien",
+      "year": "2013",
+      "url": "https://doi.org/10.1007/978-3-531-18932-1_12",
+      "type": "Book Chapter"
+    },
+    {
+      "title": "Inklusion und Exklusion durch armutspolitische Netzwerke im städtischen Raum. Das Bund-Länder-Programm „Soziale Stadt “in Trier und Jena",
+      "year": "2013",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Armutspolitische Netzwerke lokaler Parteien und sozialer Träger. Eine quantitative Studie mit Hilfe der visuellen Datenerhebung mit VennMaker",
+      "year": "2013",
+      "url": "https://orcid.org/0000-0003-2076-4975",
+      "type": "Journal Article"
+    }
+  ],
+  "sources": {
+    "archive": "https://web.archive.org/web/20250315032643/https://isabelleborucki.de/",
+    "orcid": "https://orcid.org/0000-0003-2076-4975",
+    "updated": "2026-10-31"
+  }
+}
