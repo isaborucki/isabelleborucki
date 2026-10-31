@@ -12,6 +12,30 @@
   ],
   "projects": [
     {
+      "title": "Scroll Intercept",
+      "type": "Research",
+      "description": "A fieldwork method for observing political exposure in social media feeds.",
+      "url": "https://scrollintercept.com/",
+      "label": "Explore Scroll Intercept ↗",
+      "status": "Current research project"
+    },
+    {
+      "title": "Hessen-Monitor",
+      "type": "Research",
+      "description": "A representative population survey examining political attitudes, living conditions, and social perspectives in Hessen.",
+      "url": "https://hessenmonitor.github.io/",
+      "label": "Explore the Hessen-Monitor ↗",
+      "status": "Current research project"
+    },
+    {
+      "title": "DemoReg",
+      "type": "Research",
+      "description": "An interdisciplinary research network investigating democratic regression and connecting democracy research with civil society in Hessen.",
+      "url": "https://www.demoreg.de/",
+      "label": "Explore DemoReg ↗",
+      "status": "Current research project"
+    },
+    {
       "title": "DIPART",
       "type": "Research",
       "description": "Digital Party Research: a former junior research group at the NRW School of Governance, University of Duisburg-Essen.",
@@ -347,6 +371,11 @@
   "sources": {
     "archive": "https://web.archive.org/web/20250315032643/https://isabelleborucki.de/",
     "orcid": "https://orcid.org/0000-0003-2076-4975",
-    "updated": "2026-10-31"
+    "updated": "2026-10-31",
+    "projects": [
+      "https://scrollintercept.com/",
+      "https://hessenmonitor.github.io/",
+      "https://www.demoreg.de/"
+    ]
   }
 }
