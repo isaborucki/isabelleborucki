@@ -23,15 +23,6 @@ Profile text is currently in `index.html`. Some descriptive fields in `content.j
 
 Preview with `python3 -m http.server 4173` and visit `http://localhost:4173`. Use HTTP rather than opening `index.html` directly so the browser can fetch `content.json`.
 
-## Content provenance
-
-- Personal website archive supplied by the owner: https://web.archive.org/web/20250315032643/https://isabelleborucki.de/
-- Archived research, teaching, and vita pages linked from that snapshot.
-- ORCID biography and works: https://orcid.org/0000-0003-2076-4975
-- Public ORCID API v3.0: person and works endpoints, retrieved 31 October 2026.
-
-The publication list contains 51 records after deduplicating by DOI (or title where no DOI is present). It is a saved snapshot, not an automatic ORCID synchronization. Entries without a DOI link to the ORCID record. Corrections and other work types remain as recorded by ORCID. Historical projects and appointments are labeled accordingly. No contact email or additional project claims were invented.
-
 ## Hosting
 
-GitHub Pages is configured to deploy this repository through GitHub Actions. The project URL is https://isaborucki.github.io/isabelleborucki/. A separate private Sites copy is available at https://research-profile-hub-oct31.brinybluff.chatgpt.site/.
+GitHub Pages is configured to deploy this repository through GitHub Actions. The project URL is https://isaborucki.github.io/isabelleborucki/. 
